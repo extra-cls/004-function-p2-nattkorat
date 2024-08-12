@@ -1,0 +1,12 @@
+{
+  "name": "004-function-p2",
+  "version": "1.0.0",
+  "description": "In this exercise, you have two comple 2 functions 1. `quadratic()` function 2. `formatSum()` function",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Natt Korat",
+  "license": "ISC",
+  "type": "module"
+}
